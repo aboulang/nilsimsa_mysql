@@ -1,5 +1,5 @@
 # nilsimsa_mysql
-##Nilsimsa Hashing for MySQL
+## Nilsimsa Hashing for MySQL
 
 With the help of ChatGPT, converted the Node Javascript Package for the the Nilsimsa Hash to MySQL.
 
