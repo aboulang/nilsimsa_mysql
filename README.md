@@ -5,4 +5,4 @@ With the help of ChatGPT, converted a Node Javascript Package for the the Nilsim
 
 See https://github.com/dsablic/node-nilsimsa  for the JS package translated
 
-See https://asecuritysite.com/hashsim/nil for a pretty good explanation
+See https://asecuritysite.com/hashsim/nil for a pretty good explanation of Nilsimsa Hashing
